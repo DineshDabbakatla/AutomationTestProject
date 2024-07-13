@@ -1,0 +1,337 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\frameworklayer\\apiutils\\apiutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|solutionrelative:frameworklayer\\apiutils\\apiutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF4EFBE4-A301-46E7-A58F-31E2EDADFF80}|..\\..\\..\\Downloads\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation.csproj|c:\\users\\dabbakatla_dinesh\\downloads\\apiframeworkautomation\\apiframeworkautomation\\apiframeworkautomation\\stepdefinitions\\apiteststeps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\frameworklayer\\webdriverutils\\webdriverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|solutionrelative:frameworklayer\\webdriverutils\\webdriverutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\frameworklayer\\webdriverutils\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|solutionrelative:frameworklayer\\webdriverutils\\driverfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\stepdefinitions\\loginstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\stepdefinitions\\productstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\stepdefinitions\\productstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\stepdefinitions\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\stepdefinitions\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\configreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\testsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\pageobjectmodel\\page\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|solutionrelative:pageobjectmodel\\page\\productpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\pageobjectmodel\\page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|solutionrelative:pageobjectmodel\\page\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\pageobjectmodel\\page\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEBCD05-ACB7-4BCC-B973-923CA685FB96}|PageObjectModel\\PageObjectModel.csproj|solutionrelative:pageobjectmodel\\page\\cartpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\frameworklayer\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|solutionrelative:frameworklayer\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\features\\cart.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\features\\cart.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\features\\product.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\features\\product.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\stepdefinitions\\cartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\stepdefinitions\\cartstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|c:\\users\\dabbakatla_dinesh\\desktop\\testautomation\\saucedemo\\saucedemotest\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{37E49A9E-8AB8-4E77-8746-E0DB4BD87092}|SauceDemoTest\\SauceDemoTest.csproj|solutionrelative:saucedemotest\\features\\login.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\frameworklayer\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4DF4997C-ABD8-481C-BF93-3CFFC3FF61CE}|FrameworkLayer\\FrameworkLayer.csproj|solutionrelative:frameworklayer\\log4net.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "APIUtil.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\APIUtils\\APIUtil.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\APIUtils\\APIUtil.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\APIUtils\\APIUtil.cs",
+              "RelativeToolTip": "FrameworkLayer\\APIUtils\\APIUtil.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:41:40.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "APITestSteps.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Downloads\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation\\StepDefinitions\\APITestSteps.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Downloads\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation\\StepDefinitions\\APITestSteps.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Downloads\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation\\StepDefinitions\\APITestSteps.cs",
+              "RelativeToolTip": "..\\..\\..\\Downloads\\APIFrameworkAutomation\\APIFrameworkAutomation\\APIFrameworkAutomation\\StepDefinitions\\APITestSteps.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAYwBcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T05:40:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WebDriverUtils.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\WebDriverUtils\\WebDriverUtils.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\WebDriverUtils\\WebDriverUtils.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\WebDriverUtils\\WebDriverUtils.cs",
+              "RelativeToolTip": "FrameworkLayer\\WebDriverUtils\\WebDriverUtils.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAkwDUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:31:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Hooks.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\Hooks.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\StepDefinitions\\Hooks.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\Hooks.cs",
+              "RelativeToolTip": "SauceDemoTest\\StepDefinitions\\Hooks.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAEwBEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:31:19.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "RelativeToolTip": "SauceDemoTest\\StepDefinitions\\LoginStepDefinitions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:49:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\ProductStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\StepDefinitions\\ProductStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\ProductStepDefinitions.cs",
+              "RelativeToolTip": "SauceDemoTest\\StepDefinitions\\ProductStepDefinitions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:55:46.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfigReader.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\ConfigReader.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\ConfigReader.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\ConfigReader.cs",
+              "RelativeToolTip": "SauceDemoTest\\ConfigReader.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAuwA0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:14:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DriverFactory.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\WebDriverUtils\\DriverFactory.cs",
+              "RelativeDocumentMoniker": "FrameworkLayer\\WebDriverUtils\\DriverFactory.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\WebDriverUtils\\DriverFactory.cs",
+              "RelativeToolTip": "FrameworkLayer\\WebDriverUtils\\DriverFactory.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T09:55:41.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\TestSettings.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\TestSettings.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\TestSettings.cs",
+              "RelativeToolTip": "SauceDemoTest\\TestSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T16:48:57.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductPage.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\ProductPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\Page\\ProductPage.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\ProductPage.cs",
+              "RelativeToolTip": "PageObjectModel\\Page\\ProductPage.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:43:43.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\LoginPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\Page\\LoginPage.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\LoginPage.cs",
+              "RelativeToolTip": "PageObjectModel\\Page\\LoginPage.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T06:42:14.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CartPage.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\CartPage.cs",
+              "RelativeDocumentMoniker": "PageObjectModel\\Page\\CartPage.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\Page\\CartPage.cs",
+              "RelativeToolTip": "PageObjectModel\\Page\\CartPage.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:25:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "log4Net.config",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\log4Net.config",
+              "RelativeDocumentMoniker": "FrameworkLayer\\log4Net.config",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\log4Net.config",
+              "RelativeToolTip": "FrameworkLayer\\log4Net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T07:06:18.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Cart.feature",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Cart.feature",
+              "RelativeDocumentMoniker": "SauceDemoTest\\Features\\Cart.feature",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Cart.feature",
+              "RelativeToolTip": "SauceDemoTest\\Features\\Cart.feature",
+              "ViewState": "AQIAAAIAAAAAAAAAAABRwAcAAAAFAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-08T11:19:17.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.feature",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Product.feature",
+              "RelativeDocumentMoniker": "SauceDemoTest\\Features\\Product.feature",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Product.feature",
+              "RelativeToolTip": "SauceDemoTest\\Features\\Product.feature",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-08T06:50:10.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartStepDefinitions.cs",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\CartStepDefinitions.cs",
+              "RelativeDocumentMoniker": "SauceDemoTest\\StepDefinitions\\CartStepDefinitions.cs",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\StepDefinitions\\CartStepDefinitions.cs",
+              "RelativeToolTip": "SauceDemoTest\\StepDefinitions\\CartStepDefinitions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwDUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T11:24:12.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.feature",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Login.feature",
+              "RelativeDocumentMoniker": "SauceDemoTest\\Features\\Login.feature",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\Features\\Login.feature",
+              "RelativeToolTip": "SauceDemoTest\\Features\\Login.feature",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBQAAAABAAAA",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAASFSURBVEhLjVVpbBVVFP7m7X1btS1dnqR00TZCKIhtA9WiQIiJBn9hfxRNEzEk9AclscQN40LSmNQuRiL\u002BEJSECDH6g5hgiRKLNi2WlAIPlEZrq3R7tLWvy\u002BvbZ/zuvOlbsDX9Jt/MOefOPefOOefekbAanHMBStRKyUIqkOCHzRrAniF1eEUoirJygCqLDmXGfFRbK6FDFS2FZDopk9PkEGSlBz8FrsIdHkW3X6HtP1g\u002BwPvkwzk1HH2F0kYykzSQSxDOwuQU2UetFbWey2LgfqQGeIDqRw85YAo3Uns7ZlwVFF51\u002BHzuK3zvD2k2FXrtGcONNDPuGespNZA2YbIbbNiRXQ2DpMdMyAurPg3Va7YiNy0bI4tj4hUBidcmbDYPwysPYCiimcHsJqPP\u002BRjvIkCWqhPP5O7AycoWvLm\u002BAWvMmdiSUYbj5U04VdHOySnT88l6vOzIiakxJN44km7iKo5TKiAlMVlc3vA8MkwPYltmOdbaXKjKqkCJvQjz4QVWW9Q7DgPn74ROegnWROYTKapKq4bL8BolSaThxYIX8IizCDe9v2I\u002B4oMv6kPHRKeaKovejGO/teEv393Y3ASE51IUGD9DV0CtRSxUmVmHQ\u002BnvwiYdFerWzMdxYfuXCMthdE52Y3/vq6yFFVPBaZjp3Gmw415oClE5qk6/Dwr6gk/hQ2\u002BXUGIpskt2Oi9SZeLGzG2cH\u002BuAh05K\u002BRUl9kJMBDyIKBH4\u002BDXjlFdwLiAWvSkmJmpgIsUuVeGXA6jvex0HehtRd\u002BUwrntvaSOpEEV3Gh2aloJ4k2gBFLGceG\u002BJnjtYXIejGxrw1vpDyEtLaQwV\u002Bwv34ey2E2o37crdrlnjiFc5FkCSFnkX21/Fk1mVaNr4Bnay/wvt\u002BVhgWsRKdewtg2SAjfUYXvwbJY5iPOvahS8q27WZcYxqT62LFESxwZwHp\u002B55oQYiIRh1Rlye7EHrwKdqi\u002B4r2IuB\u002BUEU2wtwuOQA\u002BmfcuOT5GXcXx3F\u002B9CKuzdxUXakYjzahO6AGSTTskXQXtlgGKZmFatFZGFdGriUHv\u002By\u002BgIAcRG3PQRQxwMmKFtblNp74YQ/0bNsoMywaQMM4rvmL0TwXEEpiozXPjjHcMUp\u002BoQZY6KAcosN8mPg1d\u002BYGMe734M\u002BFYQyx/9dZ1yLTnMF3gsnO6VRpWnIukHoW7XX8wfujpGhZdWw6OKO25bdjF\u002BGevaPqvy8M4buJS\u002Bj/x62echq4rXl8S/gAX/vmNFtSigSy\u002BEEf8yQDPiE3qzZCFJf/jrgzHacJKcm5AI9upRFZU2ewW46fIalfsMgJ3/hGYJa6UGpaR0sGaaajRCqJFLcx8CyR29E2ewrNkaBmU5EaYAnu0CRqHT\u002Byt8RhI/aIkxS/zJRAhIjlIU\u002BgzduO66F4apaQmqJkmDn0nFNCjdUJRS6jpYUsV8cSmCDfY5jT/KPFC5uMlQMk45wrj0HOcMFPU/ORI\u002BQV9Ida0Rm8hV6xT5fH6gKczRVnyzsMkM3nVTZMN04vuNHhn1fH/werDSBynw693o\u002Ba0WVTsTyAfwENCYeqQkKfxQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-07-08T06:48:34.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "log4Net.config",
+              "DocumentMoniker": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\log4Net.config",
+              "RelativeDocumentMoniker": "FrameworkLayer\\log4Net.config",
+              "ToolTip": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\log4Net.config",
+              "RelativeToolTip": "FrameworkLayer\\log4Net.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-08T06:36:32.154Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

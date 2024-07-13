@@ -1,0 +1,156 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\SauceDemoTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj",
+        "projectName": "FrameworkLayer",
+        "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\PageObjectModel.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\PageObjectModel.csproj",
+        "projectName": "PageObjectModel",
+        "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\PageObjectModel.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj": {
+                "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\SauceDemoTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\SauceDemoTest.csproj",
+        "projectName": "SauceDemoTest",
+        "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\SauceDemoTest.csproj",
+        "packagesPath": "C:\\Users\\dabbakatla_dinesh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\SauceDemoTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\dabbakatla_dinesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj": {
+                "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\FrameworkLayer\\FrameworkLayer.csproj"
+              },
+              "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\PageObjectModel.csproj": {
+                "projectPath": "C:\\Users\\dabbakatla_dinesh\\Desktop\\TestAutomation\\SauceDemo\\PageObjectModel\\PageObjectModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "ExtentReports": {
+              "target": "Package",
+              "version": "[5.0.4, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[6.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.0.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "NewRelic.LogEnrichers.Log4Net": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.22.0, )"
+            },
+            "SpecFlow.NUnit": {
+              "target": "Package",
+              "version": "[3.9.40, )"
+            },
+            "SpecFlow.Plus.LivingDocPlugin": {
+              "target": "Package",
+              "version": "[3.9.57, )"
+            },
+            "nunit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
